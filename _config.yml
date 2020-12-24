@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhang Yichen (張亦宸)"
 description              : &description "personal description"
