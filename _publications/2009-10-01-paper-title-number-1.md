@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Decentralized-Visual-Inertial-UWB-Fusion-for-Relative-State-Estimation-of-Aerial-Swarm
+excerpt: 'The collaboration of unmanned aerial vehicles (UAVs) has become a popular research topic for its practicability in multiple scenarios. The collaboration of multiple UAVs, which is also known as aerial swarm is a highly complex system, which still lacks a state-of-art decentralized relative state estimation method. In this paper, we present a novel fully decentralized visual-inertial-UWB fusion framework for relative state estimation and demonstrate the practicability by performing extensive aerial swarm flight experiments. The comparison result with ground truth data from the motion capture system shows the centimeter-level precision which outperforms all the Ultra-WideBand (UWB) and even vision based method. The system is not limited by the field of view (FoV) of the camera or Global Positioning System (GPS), meanwhile on account of its estimation consistency, we believe that the proposed relative state estimation framework has the potential to be prevalently adopted by aerial swarm applications in different scenarios in multiple scales.'
+date: 2020-03-11
+venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
+paperurl: 'https://arxiv.org/pdf/2003.05138'
+citation: 'H. Xu, L. Wang, Y. Zhang, K. Qiu and S. Shen, "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8776-8782'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The collaboration of unmanned aerial vehicles (UAVs) has become a popular research topic for its practicability in multiple scenarios. The collaboration of multiple UAVs, which is also known as aerial swarm is a highly complex system, which still lacks a state-of-art decentralized relative state estimation method. In this paper, we present a novel fully decentralized visual-inertial-UWB fusion framework for relative state estimation and demonstrate the practicability by performing extensive aerial swarm flight experiments. The comparison result with ground truth data from the motion capture system shows the centimeter-level precision which outperforms all the Ultra-WideBand (UWB) and even vision based method. The system is not limited by the field of view (FoV) of the camera or Global Positioning System (GPS), meanwhile on account of its estimation consistency, we believe that the proposed relative state estimation framework has the potential to be prevalently adopted by aerial swarm applications in different scenarios in multiple scales.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2003.05138){:target="_blank"}
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: H. Xu, L. Wang, Y. Zhang, K. Qiu and S. Shen, "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8776-8782
