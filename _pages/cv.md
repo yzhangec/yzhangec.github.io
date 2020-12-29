@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors, The Hong Kong University of Science and Technology, 2020
+* B.BA. in General Business Management, First Class Honors, The Hong Kong University of Science and Technology, 2020
+* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2019 - Jun 2020: Undergraduate Research Assistant
+  * The Hong Kong University of Science and Technology
+  * Duties included: Swarm UAV development
+  * Supervisor: Professor Shaojie Shen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2019 - Jan 2020: Software Engineer Intern
+  * SZ DJI Technology Co., Ltd.
+  * Duties included: UAV development
+
+* Jan 2019 - Mar 2019: Software Engineer Intern
+  * Karmo Apollo LTD.,
+  * Duties included: PLC programming, WinFX application development
+
+* Jun 2018 - Aug 2018: Undergraduate Research Assistant
+  * The Hong Kong University of Science and Technology
+  * Duties included: Indoor localization and mobile computing
+  * Supervisor: Professor Shueng-Han Gary Chan
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +60,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* HKUST RoboMaster Team: Embedded Engineer/Team Lead
+* Kerry Logistics UAV Hackathon Mentor
+* Community Volunteer in Mirissa, Sri Lanka
