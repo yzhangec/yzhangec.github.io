@@ -37,8 +37,8 @@ Work experience
   
 <!-- Skills
 ======
-* Skill 1
-* Skill 2
+* C++ Programming
+* Robot Manipulation
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
