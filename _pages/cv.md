@@ -64,6 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* HKUST RoboMaster Team: Embedded Engineer/Team Lead
+* HKUST RoboMaster Team: Team Lead / Embedded Engineer / Mechanical Engineer
 * Kerry Logistics UAV Hackathon Mentor
 * Community Volunteer in Mirissa, Sri Lanka
