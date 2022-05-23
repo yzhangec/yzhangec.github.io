@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2024 (expected)
 * B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors, The Hong Kong University of Science and Technology, 2020
 * B.BA. in General Business Management, First Class Honors, The Hong Kong University of Science and Technology, 2020
-* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2024 (expected)
+* Global Exchange Program in Computer Science Section, École polytechnique fédérale de Lausanne, Spring 2018
 
-Work experience
+Work & Research Experience
 ======
 * Aug 2019 - Jun 2020: Undergraduate Research Assistant
   * The Hong Kong University of Science and Technology
-  * Duties included: Swarm UAV development
+  * Research Focus: UAV Swarm
   * Supervisor: Professor Shaojie Shen
 
 * Nov 2019 - Jan 2020: Software Engineer Intern
   * SZ DJI Technology Co., Ltd.
-  * Duties included: UAV development
+  * Duties included: UAV Swarm
 
 * Jan 2019 - Mar 2019: Software Engineer Intern
   * Karmo Apollo LTD.,
@@ -32,7 +33,7 @@ Work experience
 
 * Jun 2018 - Aug 2018: Undergraduate Research Assistant
   * The Hong Kong University of Science and Technology
-  * Duties included: Indoor localization and mobile computing
+  * Research Focus: Indoor localization and mobile computing
   * Supervisor: Professor Shueng-Han Gary Chan
   
 <!-- Skills
@@ -62,8 +63,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Community Service and Leadership
 ======
-* HKUST RoboMaster Team: Team Lead / Embedded Engineer / Mechanical Engineer
+* HKUST RoboMaster Team (ENTERPRIZE): Team Lead / Embedded Engineer / Mechanical Engineer
 * Kerry Logistics UAV Hackathon Mentor
 * Community Volunteer in Mirissa, Sri Lanka
