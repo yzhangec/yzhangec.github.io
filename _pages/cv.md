@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2024 (expected)
-* B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors, The Hong Kong University of Science and Technology, 2020
-* B.BA. in General Business Management, First Class Honors, The Hong Kong University of Science and Technology, 2020
-* Global Exchange Program in Computer Science Section, École polytechnique fédérale de Lausanne, Spring 2018
+* Ph.D in Electronic and Computer Engineering
+  * The Hong Kong University of Science and Technology, 2024 (expected)
+* B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors, 
+  * The Hong Kong University of Science and Technology, 2020
+* B.BA. in General Business Management, First Class Honors, 
+  * The Hong Kong University of Science and Technology, 2020
+* Global Exchange Program in Computer Science Section, 
+  * École polytechnique fédérale de Lausanne, Spring 2018
 
 Work & Research Experience
 ======
