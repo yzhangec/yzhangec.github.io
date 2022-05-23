@@ -13,4 +13,4 @@ Despite recent progress of robotic exploration, most methods assume that drift-f
 
 [Download paper here](https://arxiv.org/pdf/2204.02693)
 
-Recommended citation: Y. Zhang, B. Zhou, L. Wang and S. Shen, “Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure”, 2022, https://arxiv.org/abs/2204.02693
+Recommended citation: B. Zhou, Y. Zhang, X. Chen and S. Shen, “FUEL: Fast UAV Exploration using Incremental Frontier Structure and Hierarchical Planning”, 2020, http://arxiv.org/abs/2010.11561
