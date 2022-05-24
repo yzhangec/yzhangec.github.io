@@ -15,4 +15,4 @@ Despite recent progress of robotic exploration, most methods assume that drift-f
 
 [Download paper here](https://arxiv.org/pdf/2204.02693)
 
-Recommended citation: **Yichen Zhang**, Boyu Zhou, Luqi Wang, and Shaojie Shen. Exploration with global consistency using real-time re-integration and active loop closure. arXiv preprint arXiv:2204.02693, 2022.
+Recommended citation: **Yichen Zhang**, Boyu Zhou, Luqi Wang, and Shaojie Shen. Exploration with global consistency using real-time re-integration and active loop closure. *arXiv preprint arXiv:2204.02693*, 2022.

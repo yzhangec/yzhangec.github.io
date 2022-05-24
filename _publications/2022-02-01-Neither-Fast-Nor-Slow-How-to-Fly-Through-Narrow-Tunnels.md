@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Neither-Fast-Nor-Slow-How-to-Fly-Through-Narrow-Tunnels
 excerpt: 'Luqi Wang, Hao Xu, **Yichen Zhang**, Shaojie Shen'
 date: 2022-02-01
-venue: 'IEEE Robotics and Automation Letters / 2022 IEEE International Conference on Robotics and Automation (ICRA)'
+venue: 'IEEE Robotics and Automation Letters / IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 
 citation: 
 ---
@@ -13,5 +13,4 @@ Nowadays, multirotors are playing important roles in abundant types of missions.
 
 [Download paper here](https://arxiv.org/pdf/2201.03312)
 
-Recommended citation: L. Wang, H. Xu, **Y. Zhang** and S. Shen, “Neither Fast Nor Slow: How to Fly Through Narrow Tunnels
-”, 2022, https://arxiv.org/abs/2201.03312
+Recommended citation: Luqi Wang, Hao Xu, **Yichen Zhang**, and Shaojie Shen. Neither fast nor slow: How to fly through narrow tunnels. *arXiv preprint arXiv:2201.03312*, 2022.

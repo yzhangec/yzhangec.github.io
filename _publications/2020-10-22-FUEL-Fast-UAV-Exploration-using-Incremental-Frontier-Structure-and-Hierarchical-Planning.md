@@ -16,4 +16,4 @@ Autonomous exploration is a fundamental problem for various applications of unma
 [Download paper here](https://arxiv.org/pdf/2010.11561)
 [Code avaible here](https://github.com/HKUST-Aerial-Robotics/FUEL)
 
-Recommended citation: Boyu Zhou, **Yichen Zhang**, Xinyi Chen, and Shaojie Shen. Fuel: Fast uav exploration using incremental frontier structure and hierarchical planning. IEEE Robotics and Automation Letters, 6(2):779–786, 2021.
+Recommended citation: Boyu Zhou, **Yichen Zhang**, Xinyi Chen, and Shaojie Shen. Fuel: Fast uav exploration using incremental frontier structure and hierarchical planning. *IEEE Robotics and Automation Letters*, 6(2):779–786, 2021.

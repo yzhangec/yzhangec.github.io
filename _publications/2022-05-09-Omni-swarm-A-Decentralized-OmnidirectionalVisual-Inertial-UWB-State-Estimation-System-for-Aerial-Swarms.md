@@ -15,4 +15,4 @@ Decentralized state estimation is one of the most fundamental components of auto
 
 [Download paper here](https://arxiv.org/pdf/2103.04131)
 
-Recommended citation: Hao Xu, Luqi Wang, **Yichen Zhang**, Kejie Qiu, and Shaojie Shen. Decentralized visual-inertial-uwb fusion for relative state estimation of aerial swarm. In 2020 IEEE international conference on robotics and automation (ICRA), pages 8776–8782. IEEE, 2020.
+Recommended citation: Hao Xu, Luqi Wang, **Yichen Zhang**, Kejie Qiu, and Shaojie Shen. Decentralized visual-inertial-uwb fusion for relative state estimation of aerial swarm. In *2020 IEEE international conference on robotics and automation (ICRA)*, pages 8776–8782. IEEE, 2020.
