@@ -2,7 +2,7 @@
 title: "FUEL: Fast UAV Exploration using Incremental Frontier Structure and Hierarchical Planning"
 collection: publications
 permalink: /publication/FUEL-Fast-UAV-Exploration-using-Incremental-Frontier-Structure-and-Hierarchical-Planning
-excerpt: 'Boyu Zhou, Yichen Zhang, Xinyi Chen, Shaojie Shen'
+excerpt: 'Boyu Zhou, **Yichen Zhang**, Xinyi Chen, Shaojie Shen'
 date: 2020-10-22
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 
