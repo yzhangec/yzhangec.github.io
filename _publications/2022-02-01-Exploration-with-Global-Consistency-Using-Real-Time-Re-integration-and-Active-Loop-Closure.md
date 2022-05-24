@@ -2,7 +2,7 @@
 title: "Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure"
 collection: publications
 permalink: /publication/Exploration-with-Global-Consistency-Using-Real-Time-Re-integration-and-Active-Loop-Closure
-excerpt: 'Yichen Zhang, Boyu Zhou, Luqi Wang, Shaojie Shen'
+excerpt: '**Yichen Zhang**, Boyu Zhou, Luqi Wang, Shaojie Shen'
 date: 2022-02-01
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 
@@ -15,4 +15,4 @@ Despite recent progress of robotic exploration, most methods assume that drift-f
 
 [Download paper here](https://arxiv.org/pdf/2204.02693)
 
-Recommended citation: Yichen Zhang, Boyu Zhou, Luqi Wang, and Shaojie Shen. Exploration with global consistency using real-time re-integration and active loop closure. arXiv preprint arXiv:2204.02693, 2022.
+Recommended citation: **Yichen Zhang**, Boyu Zhou, Luqi Wang, and Shaojie Shen. Exploration with global consistency using real-time re-integration and active loop closure. arXiv preprint arXiv:2204.02693, 2022.

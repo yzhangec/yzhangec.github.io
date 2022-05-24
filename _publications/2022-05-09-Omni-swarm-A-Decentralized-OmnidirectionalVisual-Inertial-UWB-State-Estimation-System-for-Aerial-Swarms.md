@@ -2,7 +2,7 @@
 title: "Omni-swarm: A Decentralized Omnidirectional Visual-Inertial-UWB State Estimation System for Aerial Swarms"
 collection: publications
 permalink: /publication/Omni-swarm-A-Decentralized-OmnidirectionalVisual-Inertial-UWB-State-Estimation-System-for-Aerial-Swarms
-excerpt: 'Hao Xu, Yichen Zhang, Boyu Zhou, Luqi Wang, Xinjie Yao, Guotao Meng, Shaojie Shen'
+excerpt: 'Hao Xu, **Yichen Zhang**, Boyu Zhou, Luqi Wang, Xinjie Yao, Guotao Meng, Shaojie Shen'
 date: 2022-05-09
 venue: 'IEEE Transactions on Robotics'
 paperurl: 
@@ -15,4 +15,4 @@ Decentralized state estimation is one of the most fundamental components of auto
 
 [Download paper here](https://arxiv.org/pdf/2103.04131)
 
-Recommended citation: Hao Xu, Luqi Wang, Yichen Zhang, Kejie Qiu, and Shaojie Shen. Decentralized visual-inertial-uwb fusion for relative state estimation of aerial swarm. In 2020 IEEE international conference on robotics and automation (ICRA), pages 8776–8782. IEEE, 2020.
+Recommended citation: Hao Xu, Luqi Wang, **Yichen Zhang**, Kejie Qiu, and Shaojie Shen. Decentralized visual-inertial-uwb fusion for relative state estimation of aerial swarm. In 2020 IEEE international conference on robotics and automation (ICRA), pages 8776–8782. IEEE, 2020.

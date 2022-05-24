@@ -2,7 +2,7 @@
 title: "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm"
 collection: publications
 permalink: /publication/Decentralized-Visual-Inertial-UWB-Fusion-for-Relative-State-Estimation-of-Aerial-Swarm
-excerpt: 'Hao Xu, Luqi Wang, Yichen Zhang, Kejie Qiu, Shaojie Shen'
+excerpt: 'Hao Xu, Luqi Wang, **Yichen Zhang**, Kejie Qiu, Shaojie Shen'
 date: 2020-03-11
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 
@@ -14,4 +14,4 @@ The collaboration of unmanned aerial vehicles (UAVs) has become a popular resear
 
 [Download paper here](https://arxiv.org/pdf/2003.05138){:target="_blank"}
 
-**Recommended citation:** H. Xu, L. Wang, Y. Zhang, K. Qiu and S. Shen, "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8776-8782
+**Recommended citation:** H. Xu, L. Wang, **Y. Zhang**, K. Qiu and S. Shen, "Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm," 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8776-8782
