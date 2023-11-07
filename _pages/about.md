@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 Hi! Welcome to my personal website!
+![Q250 Platform RealSense D435](/images/Q250_Camera.jpg)
+![Q250 Platform Mid-360](/images/Q250_Lidar.jpg)
+
