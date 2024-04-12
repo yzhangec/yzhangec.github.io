@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Neither-Fast-Nor-Slow-How-to-Fly-Through-Narrow-Tunnels
 excerpt: 'Luqi Wang, Hao Xu, **Yichen Zhang**, Shaojie Shen'
 date: 2022-02-01
-venue: 'IEEE Robotics and Automation Letters / IEEE International Conference on Robotics and Automation (ICRA)'
+venue: 'IEEE Robotics and Automation Letters / 2022 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 
 citation: 
 ---

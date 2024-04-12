@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Exploration-with-Global-Consistency-Using-Real-Time-Re-integration-and-Active-Loop-Closure
 excerpt: '**Yichen Zhang**, Boyu Zhou, Luqi Wang, Shaojie Shen'
 date: 2022-02-01
-venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
+venue: '2022 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 
 citation: 
 ---
