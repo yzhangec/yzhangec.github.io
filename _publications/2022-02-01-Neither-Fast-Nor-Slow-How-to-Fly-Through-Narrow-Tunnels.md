@@ -13,4 +13,4 @@ Nowadays, multirotors are playing important roles in abundant types of missions.
 
 [Download paper here](https://arxiv.org/pdf/2201.03312)
 
-Recommended citation: Luqi Wang, Hao Xu, **Yichen Zhang**, and Shaojie Shen. Neither fast nor slow: How to fly through narrow tunnels. *arXiv preprint arXiv:2201.03312*, 2022.
+Recommended citation: Luqi Wang, Hao Xu, Yichen Zhang, and Shaojie Shen. Neither fast nor slow: How to fly through narrow tunnels. *arXiv preprint arXiv:2201.03312*, 2022.
