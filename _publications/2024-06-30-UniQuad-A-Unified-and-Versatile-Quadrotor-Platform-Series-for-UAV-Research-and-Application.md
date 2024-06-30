@@ -2,7 +2,7 @@
 title: "UniQuad: A Unified and Versatile Quadrotor Platform Series for UAV Research and Application"
 collection: publications
 permalink: /publication/UniQuad-A-Unified-and-Versatile-Quadrotor-Platform-Series-for-UAV-Research-and-Application  	
-excerpt: 'Yichen Zhang, Xinyi Chen, Peize Liu, Junzhe Wang, Hetai Zou, Shaojie Shen'
+excerpt: '**Yichen Zhang**, Xinyi Chen, Peize Liu, Junzhe Wang, Hetai Zou, Shaojie Shen'
 date: 2024-06-30
 venue: '40th Anniversary of the IEEE Conference on Robotics and Automation (ICRA-X40)'
 paperurl: 
