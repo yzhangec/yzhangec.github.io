@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronic and Computer Engineering
+* Ph.D in Electronic and Computer Engineering, Supervisor: Prof. Shen Shaojie
   * The Hong Kong University of Science and Technology, 2025 (expected)
 * B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors
   * The Hong Kong University of Science and Technology, 2020
