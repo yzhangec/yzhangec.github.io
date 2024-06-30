@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electronic and Computer Engineering
-  * The Hong Kong University of Science and Technology, 2024 (expected)
+  * The Hong Kong University of Science and Technology, 2025 (expected)
 * B.Eng. in Computer Engineering, Minor in Robotics, First Class Honors
   * The Hong Kong University of Science and Technology, 2020
 * B.BA. in General Business Management, First Class Honors
