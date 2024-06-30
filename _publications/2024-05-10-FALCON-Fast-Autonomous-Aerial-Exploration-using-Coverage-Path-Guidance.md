@@ -2,8 +2,8 @@
 title: "FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance"
 collection: publications
 permalink: /publication/FALCON-Fast-Autonomous-Aerial-Exploration-using-Coverage-Path-Guidance  	
-excerpt: '**Yichen Zhang**^*, Xinyi Chen^*, Chen Feng, Boyu Zhou, and Shaojie Shen'
-date: 2024-03-15
+excerpt: '**Yichen Zhang***, Xinyi Chen*, Chen Feng, Boyu Zhou, and Shaojie Shen'
+date: 2024-05-10
 venue: 'IEEE Transactions on Robotics'
 paperurl: 
 citation: 
