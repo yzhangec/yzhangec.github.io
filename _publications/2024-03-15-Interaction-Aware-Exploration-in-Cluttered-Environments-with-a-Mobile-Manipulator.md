@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Interaction-Aware-Exploration-in-Cluttered-Environments-with-a-Mobile-Manipulator  	
 excerpt: 'Mianzhi Song, Chengkai Wu, Xinyi Chen, **Yichen Zhang**, Jinni Zhou, Shaojie Shen, Jie Mei, Boyu Zhou'
 date: 2024-03-15
-venue: ' '
+venue: 'Ongoing'
 paperurl: 
 citation: 
 ---
