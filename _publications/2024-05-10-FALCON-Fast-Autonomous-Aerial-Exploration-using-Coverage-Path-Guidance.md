@@ -15,4 +15,4 @@ This paper introduces FALCON, a novel Fast Autonomous expLoration framework usin
 
 [Download paper here](https://arxiv.org/pdf/2407.00577)
 
-Recommended citation: Y. Zhang\*, X. Chen\*, C. Feng, B. Zhou, and S. Shen, ‘APACE: Agile and Perception-Aware Trajectory Generation for Quadrotor Flights’, arXiv preprint arXiv:2407. 00577, 2024.
+Recommended citation: Y. Zhang\*, X. Chen\*, C. Feng, B. Zhou, and S. Shen, ‘FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance’, arXiv preprint arXiv:2407. 00577, 2024.
